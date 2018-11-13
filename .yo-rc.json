@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "apollo-viewer",
+    "libraryId": "f81677e6-7f3b-483e-b702-725fdd776339",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

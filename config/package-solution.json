@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "apollo-viewer-client-side-solution",
+    "id": "f81677e6-7f3b-483e-b702-725fdd776339",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/apollo-viewer.sppkg"
+  }
+}
