@@ -427,7 +427,7 @@ export class MissionService {
         },
       ]
     }
-  ]
+  ];
 
   public static getMissions(): IMission[]{
     return this._missions;

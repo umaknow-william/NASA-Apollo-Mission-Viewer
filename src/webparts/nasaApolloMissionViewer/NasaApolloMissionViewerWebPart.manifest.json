@@ -18,9 +18,10 @@
     "group": { "default": "Other" },
     "title": { "default": "NASA Apollo Mission Viewer" },
     "description": { "default": "NASA Apollo Mission Viewer description" },
-    "officeFabricIconFontName": "Page",
+    "officeFabricIconFontName": "BulletedList",
     "properties": {
-      "description": "NASA Apollo Mission Viewer"
+      "description": "NASA Apollo Mission Viewer",
+      "selectedMission": "AS-507"
     }
   }]
 }
